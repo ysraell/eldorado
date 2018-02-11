@@ -1,0 +1,8 @@
+\frametitle{Análise: pré-formatação.}
+
+\begin{itemize}
+\item Para as amostras com informação faltante apenas no mês e ano, foi realizada uma substituição do valor 'nan' pelo valor da amostra anterior. Esse processo contempla a grande maioria das amostras com 'NA' nos campos mês e ano de forma correta, visto que as amostras estavam em sequência temporal. Avaliou-se que o ganho de amostras válidas para uso traria um incremento de informação relevante com o custo de raras as amostras com valor possivelmente errado e mês e ano em uma unidade. Não foram aproveitadas as amostras com 'NA' no campo alvo.
+
+\item De um total de 21.120 amostras, foram aproveitadas 18.870, perdendo 2.250 (representando 10,6\% da base original). Das amostras aproveitadas, 1.895 tiveram o ajuste no campo mês e 1.792 no campo ano, representando 10\% e 9,5\% das amostras aproveitadas, respectivamente.
+
+\end{itemize}
