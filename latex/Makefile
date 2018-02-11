@@ -33,7 +33,9 @@ rapn: ap_notes.clean ap_notes.ap.ver
 	echo $@
 	evince `echo $< |sed -e 's/\.ap.pdf/.pdf/g'` 2>>/dev/null &
 	
-	
+%.clean: clean
+	echo $@
+	rm -f `echo $@ |sed -e 's/\.clean/.pdf/g'`
 
 ########### Geral
 

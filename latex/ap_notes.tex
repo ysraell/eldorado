@@ -61,7 +61,10 @@
 \DeclareMathOperator{\He}{He} % He{A} = A+A', hermitiano da matriz A.
 \DeclareMathOperator{\pol}{pol} % pol: polinomio
 
-
+% Colorir o fundo da tabela
+\newcommand{\cg}{\cellcolor{Gray}}
+\newcommand{\rgn}{\rowcolor[gray]{.9}}
+\newcommand{\rgc}{\rowcolor[gray]{.5}}
 
 \usetikzlibrary{shapes,arrows,positioning}
 
@@ -314,6 +317,29 @@ E \left [ X \right ] = \Sum_{i=1}^N x_i p(x_i) = \mu_X
 \includegraphics[width=0.9\columnwidth]{prev1}
 \end{center}
 \end{figure}
+\end{frame}
+
+\begin{frame}\frametitle{Solução: resultados}
+\begin{table}[htpb]
+\caption{estimativa mensal para 2018}
+\begin{tabular}{c|l} 
+ Mês. 			& estimativa (min/max) \\ \hline
+\rgc Janeiro		& 333,97 $\pm$ 207,91 (6,4651 / 818,33)\\ \hline
+\rgn Fevereiro		& 361,64 $\pm$ 205,51 (17,05 / 814,00)\\ \hline
+\rgc Março		& 359,70 $\pm$ 199,61 (13,88 / 809,72)\\ \hline
+\rgn Abril		& 308,43 $\pm$ 189,20 (1,84 / 741,75)\\ \hline
+\rgc Maio		& 295,85 $\pm$ 179,84 (3,83 / 673,59)\\ \hline
+\rgn Junho		& 313,20 $\pm$ 182,04 (35,27 / 698,98)\\ \hline
+\rgc Julho		& 321,03 $\pm$ 187,44 (10,54 / 714,81)\\ \hline
+\rgn Agosto		& 320,92 $\pm$ 186,30 (18,74 / 783,57)\\ \hline
+\rgc Setembro		& 321,06 $\pm$ 190,52 (10,27 / 784,36)\\ \hline
+\rgn Outubro		& 309,65 $\pm$ 191,39 (4,51 / 795,84)\\ \hline
+\rgc Novembro		& 327,28 $\pm$ 186,24 (4,20 / 721,41)\\ \hline
+\rgn Dezembro		& 362,26 $\pm$ 206,62 (12,77 / 847,56)\\ 
+
+\end{tabular}
+\end{table}
+
 \end{frame}
 
 

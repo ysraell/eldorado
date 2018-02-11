@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  11 FEB 2018 13:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  11 FEB 2018 14:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1548,29 +1548,29 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 ) (./ap_notes.aux)
 \openout1 = `ap_notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 103.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 103.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 106.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 103
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 106
 .
 
 (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
@@ -1640,7 +1640,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box91
-Package hyperref Info: Link coloring OFF on input line 103.
+Package hyperref Info: Link coloring OFF on input line 106.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1650,9 +1650,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count194
 )
-LaTeX Info: Redefining \ref on input line 103.
-LaTeX Info: Redefining \pageref on input line 103.
-LaTeX Info: Redefining \nameref on input line 103.
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
 
 (./ap_notes.out) (./ap_notes.out)
 \@outlinefile=\write7
@@ -1683,13 +1683,13 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 103.
+LaTeX Info: Redefining \includegraphics on input line 106.
 
 Option `amssymb' provided! 
  Command \square redefined by SIunits package!
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 103.
+LaTeX Info: Redefining \selectfont on input line 106.
 \c@lstlisting=\count195
  (./ap_notes.nav) [1
 Non-PDF special ignored!
@@ -1699,7 +1699,7 @@ Non-PDF special ignored!
 
 ]
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 127.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 130.
 
  [3
 
@@ -1786,14 +1786,14 @@ Package epstopdf Info: Source file: <seriehist.eps>
 (epstopdf)                    size: 21015 bytes
 (epstopdf)             Command: <repstopdf --outfile=seriehist-eps-converted-to
 .pdf seriehist.eps>
-(epstopdf)             \includegraphics on input line 180.
+(epstopdf)             \includegraphics on input line 183.
 Package epstopdf Info: Output file is already uptodate.
 
 <seriehist-eps-converted-to.pdf, id=256, 670.505pt x 402.50375pt>
 File: seriehist-eps-converted-to.pdf Graphic file (type pdf)
 
 <use seriehist-eps-converted-to.pdf>
-Package pdftex.def Info: seriehist-eps-converted-to.pdf used on input line 180.
+Package pdftex.def Info: seriehist-eps-converted-to.pdf used on input line 183.
 
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [7
@@ -1807,14 +1807,14 @@ Package epstopdf Info: Source file: <media1.eps>
 (epstopdf)                    size: 10455 bytes
 (epstopdf)             Command: <repstopdf --outfile=media1-eps-converted-to.pd
 f media1.eps>
-(epstopdf)             \includegraphics on input line 188.
+(epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
 
 <media1-eps-converted-to.pdf, id=299, 660.4675pt x 422.57875pt>
 File: media1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use media1-eps-converted-to.pdf>
-Package pdftex.def Info: media1-eps-converted-to.pdf used on input line 188.
+Package pdftex.def Info: media1-eps-converted-to.pdf used on input line 191.
 (pdftex.def)             Requested size: 308.06367pt x 197.10965pt.
  [8
 
@@ -1827,14 +1827,14 @@ Package epstopdf Info: Source file: <sd1.eps>
 (epstopdf)                    size: 10394 bytes
 (epstopdf)             Command: <repstopdf --outfile=sd1-eps-converted-to.pdf s
 d1.eps>
-(epstopdf)             \includegraphics on input line 195.
+(epstopdf)             \includegraphics on input line 198.
 Package epstopdf Info: Output file is already uptodate.
 
 <sd1-eps-converted-to.pdf, id=341, 670.505pt x 402.50375pt>
 File: sd1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use sd1-eps-converted-to.pdf>
-Package pdftex.def Info: sd1-eps-converted-to.pdf used on input line 195.
+Package pdftex.def Info: sd1-eps-converted-to.pdf used on input line 198.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [9
 
@@ -1847,14 +1847,14 @@ Package epstopdf Info: Source file: <min1.eps>
 (epstopdf)                    size: 10512 bytes
 (epstopdf)             Command: <repstopdf --outfile=min1-eps-converted-to.pdf 
 min1.eps>
-(epstopdf)             \includegraphics on input line 202.
+(epstopdf)             \includegraphics on input line 205.
 Package epstopdf Info: Output file is already uptodate.
 
 <min1-eps-converted-to.pdf, id=380, 670.505pt x 402.50375pt>
 File: min1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use min1-eps-converted-to.pdf>
-Package pdftex.def Info: min1-eps-converted-to.pdf used on input line 202.
+Package pdftex.def Info: min1-eps-converted-to.pdf used on input line 205.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [10
 
@@ -1867,14 +1867,14 @@ Package epstopdf Info: Source file: <max1.eps>
 (epstopdf)                    size: 10690 bytes
 (epstopdf)             Command: <repstopdf --outfile=max1-eps-converted-to.pdf 
 max1.eps>
-(epstopdf)             \includegraphics on input line 209.
+(epstopdf)             \includegraphics on input line 212.
 Package epstopdf Info: Output file is already uptodate.
 
 <max1-eps-converted-to.pdf, id=422, 670.505pt x 402.50375pt>
 File: max1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use max1-eps-converted-to.pdf>
-Package pdftex.def Info: max1-eps-converted-to.pdf used on input line 209.
+Package pdftex.def Info: max1-eps-converted-to.pdf used on input line 212.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [11
 
@@ -1889,14 +1889,14 @@ Package epstopdf Info: Source file: <fq1.eps>
 (epstopdf)                    size: 14215 bytes
 (epstopdf)             Command: <repstopdf --outfile=fq1-eps-converted-to.pdf f
 q1.eps>
-(epstopdf)             \includegraphics on input line 230.
+(epstopdf)             \includegraphics on input line 233.
 Package epstopdf Info: Output file is already uptodate.
 
 <fq1-eps-converted-to.pdf, id=489, 670.505pt x 402.50375pt>
 File: fq1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fq1-eps-converted-to.pdf>
-Package pdftex.def Info: fq1-eps-converted-to.pdf used on input line 230.
+Package pdftex.def Info: fq1-eps-converted-to.pdf used on input line 233.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [13
 
@@ -1909,14 +1909,14 @@ Package epstopdf Info: Source file: <fq2.eps>
 (epstopdf)                    size: 14040 bytes
 (epstopdf)             Command: <repstopdf --outfile=fq2-eps-converted-to.pdf f
 q2.eps>
-(epstopdf)             \includegraphics on input line 237.
+(epstopdf)             \includegraphics on input line 240.
 Package epstopdf Info: Output file is already uptodate.
 
 <fq2-eps-converted-to.pdf, id=537, 670.505pt x 402.50375pt>
 File: fq2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fq2-eps-converted-to.pdf>
-Package pdftex.def Info: fq2-eps-converted-to.pdf used on input line 237.
+Package pdftex.def Info: fq2-eps-converted-to.pdf used on input line 240.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [14
 
@@ -1929,14 +1929,14 @@ Package epstopdf Info: Source file: <fq3.eps>
 (epstopdf)                    size: 14413 bytes
 (epstopdf)             Command: <repstopdf --outfile=fq3-eps-converted-to.pdf f
 q3.eps>
-(epstopdf)             \includegraphics on input line 244.
+(epstopdf)             \includegraphics on input line 247.
 Package epstopdf Info: Output file is already uptodate.
 
 <fq3-eps-converted-to.pdf, id=580, 670.505pt x 402.50375pt>
 File: fq3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fq3-eps-converted-to.pdf>
-Package pdftex.def Info: fq3-eps-converted-to.pdf used on input line 244.
+Package pdftex.def Info: fq3-eps-converted-to.pdf used on input line 247.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [15
 
@@ -1949,14 +1949,14 @@ Package epstopdf Info: Source file: <fq4.eps>
 (epstopdf)                    size: 14461 bytes
 (epstopdf)             Command: <repstopdf --outfile=fq4-eps-converted-to.pdf f
 q4.eps>
-(epstopdf)             \includegraphics on input line 251.
+(epstopdf)             \includegraphics on input line 254.
 Package epstopdf Info: Output file is already uptodate.
 
 <fq4-eps-converted-to.pdf, id=626, 670.505pt x 402.50375pt>
 File: fq4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fq4-eps-converted-to.pdf>
-Package pdftex.def Info: fq4-eps-converted-to.pdf used on input line 251.
+Package pdftex.def Info: fq4-eps-converted-to.pdf used on input line 254.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [16
 
@@ -1971,21 +1971,21 @@ Package epstopdf Info: Source file: <hist1.eps>
 (epstopdf)                    size: 18180 bytes
 (epstopdf)             Command: <repstopdf --outfile=hist1-eps-converted-to.pdf
  hist1.eps>
-(epstopdf)             \includegraphics on input line 269.
+(epstopdf)             \includegraphics on input line 272.
 Package epstopdf Info: Output file is already uptodate.
 
 <hist1-eps-converted-to.pdf, id=696, 670.505pt x 402.50375pt>
 File: hist1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use hist1-eps-converted-to.pdf>
-Package pdftex.def Info: hist1-eps-converted-to.pdf used on input line 269.
+Package pdftex.def Info: hist1-eps-converted-to.pdf used on input line 272.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [18
 
  <./hist1-eps-converted-to.pdf>] [19
 
 ]
-Overfull \vbox (3.41985pt too high) detected at line 301
+Overfull \vbox (3.41985pt too high) detected at line 304
  []
 
 [20
@@ -2001,17 +2001,19 @@ Package epstopdf Info: Source file: <prev1.eps>
 (epstopdf)                    size: 12715 bytes
 (epstopdf)             Command: <repstopdf --outfile=prev1-eps-converted-to.pdf
  prev1.eps>
-(epstopdf)             \includegraphics on input line 317.
+(epstopdf)             \includegraphics on input line 320.
 Package epstopdf Info: Output file is already uptodate.
  <prev1-eps-converted-to.pdf, id=816, 670.505pt x 402.50375pt>
 File: prev1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use prev1-eps-converted-to.pdf>
-Package pdftex.def Info: prev1-eps-converted-to.pdf used on input line 317.
+Package pdftex.def Info: prev1-eps-converted-to.pdf used on input line 320.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
  [22
 
- <./prev1-eps-converted-to.pdf>]
+ <./prev1-eps-converted-to.pdf>] [23
+
+]
 Package epstopdf Info: Source file: <prev2.eps>
 (epstopdf)                    date: 2018-02-11 13:18:55
 (epstopdf)                    size: 122908 bytes
@@ -2020,16 +2022,16 @@ Package epstopdf Info: Source file: <prev2.eps>
 (epstopdf)                    size: 21686 bytes
 (epstopdf)             Command: <repstopdf --outfile=prev2-eps-converted-to.pdf
  prev2.eps>
-(epstopdf)             \includegraphics on input line 325.
+(epstopdf)             \includegraphics on input line 351.
 Package epstopdf Info: Output file is already uptodate.
 
-<prev2-eps-converted-to.pdf, id=858, 670.505pt x 402.50375pt>
+<prev2-eps-converted-to.pdf, id=883, 670.505pt x 402.50375pt>
 File: prev2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use prev2-eps-converted-to.pdf>
-Package pdftex.def Info: prev2-eps-converted-to.pdf used on input line 325.
+Package pdftex.def Info: prev2-eps-converted-to.pdf used on input line 351.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
- [23
+ [24
 
  <./prev2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <prev3.eps>
@@ -2040,25 +2042,25 @@ Package epstopdf Info: Source file: <prev3.eps>
 (epstopdf)                    size: 10237 bytes
 (epstopdf)             Command: <repstopdf --outfile=prev3-eps-converted-to.pdf
  prev3.eps>
-(epstopdf)             \includegraphics on input line 333.
+(epstopdf)             \includegraphics on input line 359.
 Package epstopdf Info: Output file is already uptodate.
 
-<prev3-eps-converted-to.pdf, id=898, 670.505pt x 402.50375pt>
+<prev3-eps-converted-to.pdf, id=923, 670.505pt x 402.50375pt>
 File: prev3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use prev3-eps-converted-to.pdf>
-Package pdftex.def Info: prev3-eps-converted-to.pdf used on input line 333.
+Package pdftex.def Info: prev3-eps-converted-to.pdf used on input line 359.
 (pdftex.def)             Requested size: 308.06367pt x 184.92673pt.
- [24
+ [25
 
- <./prev3-eps-converted-to.pdf>] [25
+ <./prev3-eps-converted-to.pdf>] [26
 
 ]
-[26
+[27
 
-] [27
+] [28
 
-] (./ap_notes.bbl) [28
+] (./ap_notes.bbl) [29
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
 \tf@nav=\write8
@@ -2070,25 +2072,25 @@ Package pdftex.def Info: prev3-eps-converted-to.pdf used on input line 333.
 \tf@snm=\write10
 \openout10 = `ap_notes.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 369.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 369.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 395.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 395.
  (./ap_notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 369.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 369.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 395.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 395.
 Package rerunfilecheck Info: File `ap_notes.out' has not changed.
 (rerunfilecheck)             Checksum: 0E7FE74BF6E242B76B299A3CE0B7C020;716.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 369.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 395.
  ) 
 Here is how much of TeX's memory you used:
- 27684 strings out of 494888
- 542500 string characters out of 6179127
- 674498 words of memory out of 5000000
- 30217 multiletter control sequences out of 15000+600000
- 39777 words of font info for 45 fonts, out of 8000000 for 9000
+ 27712 strings out of 494888
+ 543031 string characters out of 6179127
+ 674578 words of memory out of 5000000
+ 30243 multiletter control sequences out of 15000+600000
+ 42497 words of font info for 46 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
  56i,14n,80p,626b,1558s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
@@ -2104,10 +2106,10 @@ e/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmss9.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 sy10.pfb>
-Output written on ap_notes.pdf (28 pages, 375874 bytes).
+Output written on ap_notes.pdf (29 pages, 379024 bytes).
 PDF statistics:
- 1113 PDF objects out of 1200 (max. 8388607)
- 979 compressed objects within 10 object streams
- 72 named destinations out of 1000 (max. 500000)
+ 1141 PDF objects out of 1200 (max. 8388607)
+ 1005 compressed objects within 11 object streams
+ 74 named destinations out of 1000 (max. 500000)
  234 words of extra memory for PDF output out of 10000 (max. 10000000)
 

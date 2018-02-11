@@ -10,5 +10,5 @@
 \beamer@sectionintoc {3}{Solu\IeC {\c c}\IeC {\~a}o}{20}{0}{3}
 \beamer@subsectionintoc {3}{1}{Base te\IeC {\'o}rica}{20}{0}{3}
 \beamer@subsectionintoc {3}{2}{Resultados}{22}{0}{3}
-\beamer@sectionintoc {4}{Conclus\IeC {\~a}o}{25}{0}{4}
-\beamer@sectionintoc {5}{Notas}{26}{0}{5}
+\beamer@sectionintoc {4}{Conclus\IeC {\~a}o}{26}{0}{4}
+\beamer@sectionintoc {5}{Notas}{27}{0}{5}
