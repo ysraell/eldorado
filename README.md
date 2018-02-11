@@ -1,7 +1,7 @@
 # Resposta ao desafio Eldorado.
 
 ## Candidato
-Israel Gonçalves de Oliveira
+Israel Gonçalves de Oliveira (prof.israel@gmail.com)
 
 ## Estrutura da aplicação
 ### Pasta 'app'
